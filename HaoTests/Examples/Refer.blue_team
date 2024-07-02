@@ -1,0 +1,77 @@
+A 9 4               K T 6 5 
+A 6 4 2             Q 9 
+A Q 9 7 5           K 6 4 3 2 
+A                   8 4 
+
+A J 7 5 4           Q T 8 
+A 9                 K J 7 3 2 
+K 8 2               Q J T 7 
+A K 5               9 
+
+A 8 3               Q 7 
+A Q J 3             K T 5 4 
+A K Q 7 3           9 4 2 
+7                   K 9 8 3 
+
+9 2                 A Q T 8 7 5 3 
+A 4                 9 5 
+A K Q T 7           J 9 3 
+A K 9 6             Q 
+
+A Q 3               K J 6 4 
+A T 9 3             Q 6 
+A K                 J T 9 8 7 
+J T 5 3             K 2 
+
+A T                 8 
+A K J 9             Q 8 7 4 3 
+K 8 6               A Q 7 5 3 
+Q 9 6 3             5 2 
+
+K T 8 3             A 7 5 
+9 5 3               Q T 7 
+A K 2               Q J T 9 6 
+A K 4               9 8 
+
+A 3                 K Q J 9 4 2 
+A K 7 4 3           8 5 2 
+A K                 5 4 
+Q 5 4 3             K 2 
+
+A J                 K Q 9 6 4 
+A J 8 6 5           - 
+A 9 4 2             K J T 8 
+K T                 7 5 4 3 
+
+A Q 3               K J 9 7 6 2 
+A Q T 6             K 5 
+A K 3               Q T 8 
+K J 7               5 3 
+
+Frequency :
+    0	       0
+    1	       1
+    2	       9
+    3	       0
+    4	       0
+    5	       0
+    6	       0
+Frequency :
+    0	       0
+    1	       0
+    2	       0
+    3	       0
+    4	       0
+    5	       0
+    6	       2
+    7	       4
+    8	       3
+    9	       1
+   10	       0
+   11	       0
+   12	       0
+   13	       0
+Generated 569 hands
+Produced 10 hands
+Initial random seed 2
+Time needed    0.002 sec
